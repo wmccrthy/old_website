@@ -178,7 +178,7 @@ a {
 }
 
 .proj h4:hover {
-    border-bottom: 2px solid black;
+    font-size: large;
     transition: .1s ease-in-out;
     cursor: pointer;
 }
